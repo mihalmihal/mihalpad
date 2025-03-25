@@ -1,0 +1,6 @@
+if SHIELD_MIHALPAD
+
+config ZMK_KEYBOARD_NAME
+    default "mihalpad"
+
+endif
